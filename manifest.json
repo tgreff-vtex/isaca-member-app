@@ -1,0 +1,14 @@
+{
+  "name": "isaca",
+  "vendor": "tylergreff",
+  "version": "2.0.0",
+  "title": "VTEX IO App Example",
+  "description": "Reference app for VTEX IO, originally forked from Afonso Praça",
+  "dependencies": {},
+  "builders": {
+    "react": "3.x",
+    "store": "0.x"
+  },
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
