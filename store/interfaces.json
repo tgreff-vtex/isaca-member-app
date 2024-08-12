@@ -1,0 +1,14 @@
+{
+  "isaca-member": {
+    "component": "GiphyCards"
+  },
+  "isaca-price-label": {
+    "component": "PriceLabel"
+  },
+  "my-account-link.my-membership-link": {
+    "component": "MyAppLink"
+  },
+  "my-account-page.my-membership-page": {
+    "component": "MyAppPage"
+  }
+}

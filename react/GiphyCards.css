@@ -1,0 +1,52 @@
+.giphys {
+  margin: 0;
+  background-color: #52606d;
+  padding: 7px 31px;
+}
+
+.giphysContainer {
+  width: 100%;
+  margin: 0;
+  justify-content: center;
+}
+
+.title {
+  color: #727273;
+  font-size: 36px;
+  font-family: "Playfair display", serif;
+}
+
+.giphys li {
+  list-style-type: none;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727273;
+  padding: 24px 0;
+}
+
+.giphys li+li {
+  border-top: 1px #AAA solid;
+}
+
+.locationContainer {
+  width: 33%;
+  padding: 60px;
+  box-sizing: border-box;
+  background-color: #212222;
+  align-items: center;
+  justify-content: center;
+}
+
+.locationContainerMobile {
+  padding: 20px;
+  background-color: #212222;
+}
+
+.location {
+  color: #FFF;
+  margin: 0;
+}
+
+.userName {
+  color: #212222;
+}
